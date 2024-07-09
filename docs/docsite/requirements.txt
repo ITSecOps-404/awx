@@ -3,3 +3,4 @@ sphinx-ansible-theme==0.9.1
 docutils==0.16
 Jinja2<3.1
 PyYaml
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
